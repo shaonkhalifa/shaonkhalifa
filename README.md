@@ -45,13 +45,13 @@
 	  &emsp; 
 	<a href="https://leetcode.com/ShaonKhalifa/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode" width=%6/></a>
 	  &emsp; 
-	<a href=""><img src="https://i.ibb.co/Q9WSjDB/logo.png" alt="AtCoder" width=6%/></a>
-	  &emsp; 
+	<!--<a href=""><img src="https://i.ibb.co/Q9WSjDB/logo.png" alt="AtCoder" width=6%/></a>
+	  &emsp; -->
 	<a href=""><img src="https://img.icons8.com/color/50/000000/codechef.png" alt="Code Chef" width=6%/></a>
 	  &emsp; 
 	<a href=""><img src="https://i.ibb.co/6J0r7rW/Daco-5610880.png" alt="ICPC Global" width=6% /></a>     
 	  &emsp; 
-	<a href="" ><img src="https://i.ibb.co/1MRppTC/codingame-1.png" alt="Codingame" width=20%>
+	<!--<a href="" ><img src="https://i.ibb.co/1MRppTC/codingame-1.png" alt="Codingame" width=20%>-->
 </div>
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="3%"> My Skills
 
@@ -180,7 +180,7 @@
   &emsp;
     <a href="#"><img alt = "Google" src="https://img.shields.io/badge/google-%234285F4.svg?style=plastic&logo=google&logoColor=white" /></a>
   &emsp;
-    <a href="#"><img alt = "Codin Game" src="https://img.shields.io/badge/codingame-%23F2BB13.svg?&style=plastic&logo=codingame&logoColor=black" /></a>
+   <!-- <a href="#"><img alt = "Codin Game" src="https://img.shields.io/badge/codingame-%23F2BB13.svg?&style=plastic&logo=codingame&logoColor=black" /></a>-->
 </p>
 
  ### <img src = "https://github.com/shaonkhalifa/shaonkhalifa/blob/main/OS.gif?raw=true" width=5%>  Operating Systems
